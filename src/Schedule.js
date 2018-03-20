@@ -15,6 +15,7 @@ const styles = theme => ({
   root: {
     width: '100%',
     maxWidth: '60vw',
+    minWidth: '350px',
     margin: '0 auto',
   },
 });
